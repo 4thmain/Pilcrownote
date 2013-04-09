@@ -8,7 +8,9 @@ a{
 
 .logo{
 	height:25%;
-	padding-top:0.75em;
+	margin-top:5em;
+	margin-bottom:5em;
+
 }
 p{
 	text-align:center;
